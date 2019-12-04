@@ -1,0 +1,52 @@
+h1{
+font-family: Arial;
+font-size: 40px;
+font-weight: 50;
+text-align: left;
+text-decoration: underline;
+line-height: 15px;
+color:Blue;
+
+}
+
+body
+{
+
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  color: #333;
+  line-height: 1.5;
+  font-size: 1.6rem;
+  overflow-x: hidden;
+  padding: 5rem 10rem;
+  text-align: center;
+  background-color: teal;
+}
+
+}
+p {
+  /* color (font), font-size */
+  /* margin - how do we add more space between each paragraph? */
+  color: black;
+  margin: 5px;
+}
+
+a{
+  color: white;
+  font-size: 20px;
+
+
+
+}
+
+img {
+  margin-top: auto;
+  max-width: 50%;
+  border-radius: 20px;
+}
+
+
+
+
+/* Choice 1 - background-color: #c43e00, color: #fff;*/
+/* Choice 2 - background-color: #003b8e, color: #fff;*/
